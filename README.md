@@ -1,5 +1,6 @@
 # Top-10-Movies
 Top 10 Movies Website . Using SQLite Database  and Flask Server
+*REQUIRES VPN FOR SOME COUNTRIES"
 
 
 ![image](https://user-images.githubusercontent.com/76854498/111036843-9bf14680-8421-11eb-9573-927c964e9980.png)
